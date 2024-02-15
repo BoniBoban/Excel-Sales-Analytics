@@ -16,6 +16,8 @@
    **5.** The new products that AtliQ began selling [in 2021](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/New_products.pdf)
 
    **6.** The top 5 countries in terms of [net sales in 2021](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Top_5_countries.pdf)
+
+   **7.** Generate a **Division** report to present the net sales data for [2020 and 2021, along with the growth percentage]
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
