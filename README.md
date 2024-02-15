@@ -9,15 +9,16 @@
 
     **2.** Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
   
-   **3.** Create the top 10 products [based on the percentage increase in their net sales](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Top_10_products.pdf)
+   **3.** Create the [top 10 products](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Top_10_products.pdf) based on the percentage increase in their net sales
   
-   **4.** Products are ranked in the top 5 and bottom 5 [in terms of quantity sold](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Top_bottom_5_products.pdf)
+   **4.** Products are ranked in the [top 5 and bottom 5](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Top_bottom_5_products.pdf)
+   in terms of quantity sold
   
-   **5.** The new products that AtliQ began selling [in 2021](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/New_products.pdf)
+   **5.** The [new products](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/New_products.pdf) that AtliQ began selling in 2021
 
-   **6.** The top 5 countries in terms of [net sales in 2021](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Top_5_countries.pdf)
+   **6.** [The top 5 countries](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Top_5_countries.pdf) in terms of net sales in 2021
 
-   **7.** Generate a **Division** report to present the net sales data for [2020 and 2021, along with the growth percentage](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Divison_level_report.pdf)
+   **7.** Generate a [**Division** report](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Divison_level_report.pdf) to present the net sales data for 2020 and 2021, along with the growth percentage
   
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
